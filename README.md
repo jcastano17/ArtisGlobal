@@ -8,3 +8,5 @@ Sitio estático publicado con GitHub Pages desde la carpeta `docs/` (rama `main`
 - `docs/guia/index.html`: `somosartis.com/guia` redirige a GUÍA, que corre aislada en `https://guia.somosartis.com`.
 
 Copia con historial del repositorio original `matisisconsultancy/Artis-Global` (6 oct 2026).
+
+Comprobación: `https://www.somosartis.com/guia/` debe llevar a `https://guia.somosartis.com/`.
